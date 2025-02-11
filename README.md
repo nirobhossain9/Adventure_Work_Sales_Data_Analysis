@@ -11,12 +11,12 @@ I created this Dynamic Dashboard of Adventure Works Sales analysis using Power B
 
 Here i took this Dummy data from Kaggle developed an interactive dashboard to get a valuable KPI and Insights about the sales. 
 
-# Key insights: </br>
+# Key insights:
 
-▶️ The turnover rate for the current month (CM) is 3.31% higher than that of the previous month (PM). However, the return rate is down 1.91% and the CM turnover is down 0.88% compared to the PM turnover. Accessories are the most popular product category.</br>
-▶️ Australia had the highest turnover ($7.4M) in the whole region.</br>
-▶️ Customers from professional occupations outnumber those from other professions, and 57% of customers are from high-income categories.</br>
-▶️ Monthly sales are nearly closed to the targets (10% higher than the preceding month) by order, turnover, and profit.</br>
+▶️ The turnover rate for the current month (CM) is 3.31% higher than that of the previous month (PM). However, the return rate is down 1.91% and the CM turnover is down 0.88% compared to the PM turnover. Accessories are the most popular product category.
+▶️ Australia had the highest turnover ($7.4M) in the whole region.
+▶️ Customers from professional occupations outnumber those from other professions, and 57% of customers are from high-income categories.
+▶️ Monthly sales are nearly closed to the targets (10% higher than the preceding month) by order, turnover, and profit.
 
 
 # Recommendation: </br>
