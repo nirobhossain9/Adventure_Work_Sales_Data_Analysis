@@ -2,7 +2,7 @@
 
 Welcome to the **Adventure Works Sales Dashboard Project**, built using **Power BI**. This project is a data visualization exercise focused on uncovering insights from the *Adventure Works* sales dataset.
 
-🔗 **[View Power BI Dashboard](https://lnkd.in/gjVameYy)**
+🔗 **[View Power BI Dashboard]([https://lnkd.in/gjVameYy](https://app.powerbi.com/view?r=eyJrIjoiNGEzMjdlMWYtZjEwNy00NjUwLTljNzktNGY3YTRlYjAxNjg0IiwidCI6ImYzZDA5MDA5LWI2ZjItNDI1OS05ZWJjLTkyNzRkNTMxNDc0MSIsImMiOjEwfQ%3D%3D))**
 
 ---
 
